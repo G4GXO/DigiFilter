@@ -38,8 +38,10 @@ If you use these be sure not to cause solder bridges with adjacent pins!
 Morse Announcements. The morse announcements used to indicate menu position and certain actions are described below.
 
 F (di di dah dit) Filter – Press/Rel to enter Upper Passband Mode, Press/Hold to return to menu navigation.
-  U (di di dah) Upper Passband Mode (Press/Rel for lower)
-  L (di dah di dit) Lower Passband Mode (Press/Rel for upper)
+
+  U (di di dah) Filter Upper Passband Mode (Press/Rel for lower)
+  
+  L (di dah di dit) Filter Lower Passband Mode (Press/Rel for upper)
 
 A (di dah) Autonotch – Press/Rel to toggle on/off.  No adjustment, turn encoder to change menu.
 
