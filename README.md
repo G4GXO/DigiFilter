@@ -8,6 +8,6 @@ The source files require to be compiled in Microchip's MPLAB-X using the XC16 Co
 hex file can be programmed into the processor using a suitable programmer/debugger.
 
 Unless stated otherwise this work is the copyright of RWM Taylor and is provided free for personal,
-non commercial use. See the license in the main project folder for more information.
+non commercial use. See the license in this folder for more information.
 
 RWM Taylor G4GXO
