@@ -51,8 +51,8 @@ extern "C" {
 #define PULL_UPS1   0x0001  //
 #define PULL_UPS2   0x61c0  //
 // Indicators
-#define GRN_LED     _LATB9  // Tuning direction LED
-#define RED_LED     _LATB11 // Signal level LED
+#define GRN_LED     _LATB11 // Green LED
+#define RED_LED     _LATB9  // Red LED
 
 // Input Level Warning
 #define CLIPPING    0x6000  //5554    // Input clipping threshold at 2/3 peak (0x7FFF)
